@@ -1,0 +1,11 @@
+# Ignorar entorno virtual
+env/
+__pycache__/
+
+# Archivos sensibles
+config.py
+credentials.json
+
+# Archivos del sistema
+.DS_Store
+*.log
